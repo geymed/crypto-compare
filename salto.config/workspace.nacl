@@ -1,0 +1,5 @@
+workspace {
+      name = "somename"
+      uid = "00a6a0ea-2d00-4341-a649-11dd53303d77"
+      staleStateThresholdMinutes = undefined
+    }
