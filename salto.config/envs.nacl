@@ -1,4 +1,19 @@
 envs {
       envs = [
+  {
+    name = "sourceEnvName"
+    services = [
+                  "salesforce",
+    ]
+  },
+
+
+  {
+    name = "targetEnvName"
+    services = [
+                  "salesforce",
+    ]
+  },
+
       ]
     }
